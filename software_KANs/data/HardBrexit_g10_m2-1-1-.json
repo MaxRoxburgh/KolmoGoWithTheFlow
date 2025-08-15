@@ -1,0 +1,16 @@
+{
+    "task": "HardBrexit",
+    "train_acc": 0.8384444713592529,
+    "test_acc": 0.8399999737739563,
+    "train_loss": 2.426884651184082,
+    "test_loss": 2.4362776279449463,
+    "width": [
+        2,
+        1,
+        1
+    ],
+    "grid": 10,
+    "seed": 42,
+    "test_split": 0.1,
+    "steps": 80
+}

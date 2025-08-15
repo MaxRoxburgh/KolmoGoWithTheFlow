@@ -1,0 +1,16 @@
+{
+    "task": "gaussian cross",
+    "train_acc": 0.8885555267333984,
+    "test_acc": 0.8930000066757202,
+    "train_loss": 2.1214473247528076,
+    "test_loss": 2.1057915687561035,
+    "width": [
+        2,
+        1,
+        1
+    ],
+    "grid": 5,
+    "seed": 42,
+    "test_split": 0.1,
+    "steps": 80
+}

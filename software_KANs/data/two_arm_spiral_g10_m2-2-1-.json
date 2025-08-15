@@ -1,0 +1,16 @@
+{
+    "task": "two arm spiral",
+    "train_acc": 0.9737777709960938,
+    "test_acc": 0.9750000238418579,
+    "train_loss": 0.9412742257118225,
+    "test_loss": 0.8844754695892334,
+    "width": [
+        2,
+        2,
+        1
+    ],
+    "grid": 10,
+    "seed": 42,
+    "test_split": 0.1,
+    "steps": 80
+}

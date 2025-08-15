@@ -1,0 +1,16 @@
+{
+    "task": "rotated bar",
+    "train_acc": 0.9652222394943237,
+    "test_acc": 0.9580000042915344,
+    "train_loss": 1.4180630445480347,
+    "test_loss": 1.4846323728561401,
+    "width": [
+        2,
+        2,
+        1
+    ],
+    "grid": 5,
+    "seed": 42,
+    "test_split": 0.1,
+    "steps": 80
+}

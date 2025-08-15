@@ -1,0 +1,16 @@
+{
+    "task": "checker a3",
+    "train_acc": 0.8611111044883728,
+    "test_acc": 0.8519999980926514,
+    "train_loss": 2.35445499420166,
+    "test_loss": 2.4021317958831787,
+    "width": [
+        2,
+        2,
+        1
+    ],
+    "grid": 5,
+    "seed": 42,
+    "test_split": 0.1,
+    "steps": 80
+}

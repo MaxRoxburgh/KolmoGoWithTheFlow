@@ -1,0 +1,16 @@
+{
+    "task": "moons",
+    "train_acc": 0.9988889098167419,
+    "test_acc": 1.0,
+    "train_loss": 0.3000742197036743,
+    "test_loss": 0.25133419036865234,
+    "width": [
+        2,
+        1,
+        1
+    ],
+    "grid": 5,
+    "seed": 42,
+    "test_split": 0.1,
+    "steps": 80
+}

@@ -1,0 +1,16 @@
+{
+    "task": "ellipse a1",
+    "train_acc": 0.9073333144187927,
+    "test_acc": 0.9089999794960022,
+    "train_loss": 1.8904987573623657,
+    "test_loss": 1.858828067779541,
+    "width": [
+        2,
+        1,
+        1
+    ],
+    "grid": 5,
+    "seed": 42,
+    "test_split": 0.1,
+    "steps": 80
+}

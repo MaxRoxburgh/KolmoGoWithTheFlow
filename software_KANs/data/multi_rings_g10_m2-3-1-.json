@@ -1,0 +1,16 @@
+{
+    "task": "multi rings",
+    "train_acc": 0.988111138343811,
+    "test_acc": 0.9900000095367432,
+    "train_loss": 1.394146203994751,
+    "test_loss": 1.3981995582580566,
+    "width": [
+        2,
+        3,
+        1
+    ],
+    "grid": 10,
+    "seed": 42,
+    "test_split": 0.1,
+    "steps": 80
+}

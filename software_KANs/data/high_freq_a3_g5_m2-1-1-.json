@@ -1,0 +1,16 @@
+{
+    "task": "high freq a3",
+    "train_acc": 0.9083333611488342,
+    "test_acc": 0.8949999809265137,
+    "train_loss": 2.060396671295166,
+    "test_loss": 2.0783841609954834,
+    "width": [
+        2,
+        1,
+        1
+    ],
+    "grid": 5,
+    "seed": 42,
+    "test_split": 0.1,
+    "steps": 80
+}

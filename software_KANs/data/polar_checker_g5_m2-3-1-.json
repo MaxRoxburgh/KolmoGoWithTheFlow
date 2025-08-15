@@ -1,0 +1,16 @@
+{
+    "task": "polar checker",
+    "train_acc": 0.7474444508552551,
+    "test_acc": 0.7400000095367432,
+    "train_loss": 2.9265289306640625,
+    "test_loss": 2.9774765968322754,
+    "width": [
+        2,
+        3,
+        1
+    ],
+    "grid": 5,
+    "seed": 42,
+    "test_split": 0.1,
+    "steps": 80
+}
